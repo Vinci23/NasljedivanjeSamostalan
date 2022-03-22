@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\NasljedivanjeSamostalan\bin\Debug\NasljedivanjeSamostalan.exe.config
+C:\Users\ucenik\Desktop\NasljedivanjeSamostalan\bin\Debug\NasljedivanjeSamostalan.exe
+C:\Users\ucenik\Desktop\NasljedivanjeSamostalan\bin\Debug\NasljedivanjeSamostalan.pdb
+C:\Users\ucenik\Desktop\NasljedivanjeSamostalan\obj\Debug\NasljedivanjeSamostalan.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\NasljedivanjeSamostalan\obj\Debug\NasljedivanjeSamostalan.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\NasljedivanjeSamostalan\obj\Debug\NasljedivanjeSamostalan.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\NasljedivanjeSamostalan\obj\Debug\NasljedivanjeSamostalan.exe
+C:\Users\ucenik\Desktop\NasljedivanjeSamostalan\obj\Debug\NasljedivanjeSamostalan.pdb
